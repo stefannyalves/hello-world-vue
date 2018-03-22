@@ -2,8 +2,8 @@
 
 ## Setup
 
-# Instalar dependências
+#### Instalar dependências
 npm install
 
-# Rodar servidor em localhost:8080
+#### Rodar servidor em localhost:8080
 npm run dev
